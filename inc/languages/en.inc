@@ -1,7 +1,7 @@
 <?php
     $lang['number']   = 'Reference';
-    $lang['date']     = 'Billing date';
-    $lang['time']     = 'Billing time';
+    $lang['date']     = 'Date';
+    $lang['time']     = 'Time';
     $lang['due']      = 'Due date';
     $lang['to']       = 'Billing to';
     $lang['from']     = 'Billing from';
